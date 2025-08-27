@@ -9,12 +9,14 @@ body {
 }
 
 .container {
-  height: 70vh;
+  min-height: 100vh;   /* full screen */
   display: flex;
-
+  flex-direction: column;  /* stack message + board */
   justify-content: center;
   align-items: center;
+  gap: 2rem;
 }
+
 
 .game {
   height: 60vmin;
@@ -61,13 +63,14 @@ body {
 }
 
 .msg-container {
-  height: 100vmin;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   gap: 2rem;
+  margin-top: 2rem; /* optional: spacing from top */
 }
+
 
 .hide {
   display: none;
