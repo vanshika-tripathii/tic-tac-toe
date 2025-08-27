@@ -55,11 +55,13 @@ body {
   color: #fff;
   border-radius: 1rem;
   border: none;
+  margin-top: 0.5rem;
 }
 
 #msg {
   color: #ffffc7;
   font-size: 5vmin;
+  margin-bottom: 0.5rem;
 }
 
 .msg-container {
@@ -67,8 +69,8 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  gap: 2rem;
-  margin-top: 2rem; /* optional: spacing from top */
+  gap: 1rem;
+  margin-bottom: 1.5rem; /* optional: spacing from top */
 }
 
 
