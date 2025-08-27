@@ -68,15 +68,15 @@ h1 {
   border: none;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
   font-size: 8vmin;
-  color: #3eb044;
-  background-color: #ffffc7;
+  color: black;
+  background-color: rgba(0, 0, 0, 0.716);
 }
 
 #reset-btn {
   padding: 1rem;
   font-size: 1.25rem;
   background-color: #191913;
-  color: greenyellow;
+  color: white;
   border-radius: 1rem;
   border: none;
   cursor: pointer;
