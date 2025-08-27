@@ -24,7 +24,7 @@ body {
 }
 
 #msg {
-  color: #ffffc7;
+  color: rgba(0, 0, 0, 0.716);
   font-size: 5vmin;
   font-family: 'Comic Sans MS', cursive, sans-serif;
 }
@@ -68,7 +68,7 @@ h1 {
   border: none;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
   font-size: 8vmin;
-  color: black;
+  color: rgba(0, 0, 0, 0.159);
   background-color: rgba(0, 0, 0, 0.716);
 }
 
