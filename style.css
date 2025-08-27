@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rgb(255, 192, 192);
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
   text-align: center;
   min-height: 100vh;
   display: flex;
